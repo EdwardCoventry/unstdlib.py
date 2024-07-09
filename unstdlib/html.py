@@ -3,7 +3,7 @@ import hashlib
 import time
 import functools
 
-from unstdlib.six import text_type, string_types
+from six import text_type, string_types
 from unstdlib.standard.functools_ import memoized
 from unstdlib.standard.list_ import iterate_items, iterate
 

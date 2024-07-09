@@ -1,6 +1,6 @@
 import sys
 
-from unstdlib.six import reraise, PY3
+from six import reraise, PY3
 
 
 __all__ = ['convert_exception']
